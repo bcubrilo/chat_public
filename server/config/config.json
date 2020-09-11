@@ -1,0 +1,38 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Sifra123$",
+    "database": "chat",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "emailHost": "***",
+    "emailPort": 465,
+    "emailUser": "***",
+    "emailPassword": "***"
+  },
+  "test": {
+    "username": "root",
+    "password": "Sifra123$",
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "emailHost": "***",
+    "emailPort": 465,
+    "emailUser": "***",
+    "emailPassword": "***"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "emailHost": "***",
+    "emailPort": 465,
+    "emailUser": "***",
+    "emailPassword": "***"
+  }
+}
